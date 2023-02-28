@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. determine the variation of magnetic field with the distance along the axis of a current carrying coil and estimate the radius of coil.?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5x10^-4 T",
+        "b": "3.14x10^-4 T",
+        "c": "1.57x10^-3 T",
+        "d": "5x10^-3 T"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Explanation 1  <a href='https://testbook.com/objective-questions/mcq-on-magnetic-field-on-the-axis-of-a-circular-current-l--5eea6a1339140f30f369ef8b'>here</a>",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the radius of a circular current carrying coil is doubled then the magnetic field at the center of the coil becomes- (all other factors remains same)",
+      "answers": {
+        "a": "two times",
+        "b": "half",
+        "c": "four times",
+        "d": "remains same"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='https://testbook.com/objective-questions/mcq-on-magnetic-field-on-the-axis-of-a-circular-current-l--5eea6a1339140f30f369ef8b'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
