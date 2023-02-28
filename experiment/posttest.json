@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the relationship between magnetic field and distance along the axis of a current carrying coil?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Directly proportional",
+        "b": "Inversely proportional",
+        "c": "Constant",
+        "d": "Exponentially proportional"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the formula for magnetic field due to a solenoid?",
+      "answers": {
+        "a": "B = (μ₀ * I * N) / 2πr",
+        "b": "B = (μ₀ * I * N) / 2r",
+        "c": "B = (μ₀ * I * N) / 2πr²",
+        "d": " B = (μ₀ * I * N) / πr"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. How does the number of turns in a coil affect the magnetic field at a certain distance along the axis?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It has no effect",
+        "b": "It increases the magnetic field",
+        "c": "It decreases the magnetic field",
+        "d": "It depends on the distance"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. How accurate is the estimated radius compared to the actual radius?",
+      "answers": {
+        "a": "Very accurate",
+        "b": "Somewhat accurate",
+        "c": "Not accurate",
+        "d": "It depends on the precision of measurements"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 1  <a href='www.google.com'>here</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What other methods can be used to determine the variation of magnetic field with distance along the axis of a current carrying coil?",
+      "answers": {
+        "a": "Using a compass",
+        "b": "Using a voltmeter",
+        "c": "Using a oscilloscope",
+        "d": "Using a oscillograph"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +83,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
