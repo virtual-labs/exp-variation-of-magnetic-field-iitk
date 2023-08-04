@@ -14,7 +14,7 @@ The magnetic field produced by a current-carrying coil is proportional to the cu
 :--|:--|
 <b> Institute | <b> RAJKIYA ENGINEERING COLLEGE BANDA
 <b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in
-<b> Department | Mechanical Engineering
+<b> Department | Applied Science and Humanities
 
 ### Contributors List
 
