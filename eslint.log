@@ -1,0 +1,21 @@
+
+/home/runner/work/exp-variation-of-magnetic-field-iitk/exp-variation-of-magnetic-field-iitk/experiment/simulation/js/main.js
+    2:10  warning  'openNav' is defined but never used             no-unused-vars
+    6:10  warning  'closeNav' is defined but never used            no-unused-vars
+   20:10  warning  'showcompass' is defined but never used         no-unused-vars
+   69:10  warning  'getRadius' is defined but never used           no-unused-vars
+   79:10  warning  'getTurn' is defined but never used             no-unused-vars
+   91:10  warning  'getResistance' is defined but never used       no-unused-vars
+  157:5   warning  'Bo' is assigned a value but never used         no-unused-vars
+  159:5   warning  'tandegree' is assigned a value but never used  no-unused-vars
+  160:5   warning  'theeta0' is assigned a value but never used    no-unused-vars
+  165:7   warning  'procedure' is assigned a value but never used  no-unused-vars
+  244:8   warning  'i' is not defined                              no-undef
+  244:15  warning  'i' is not defined                              no-undef
+  244:32  warning  'i' is not defined                              no-undef
+  245:49  warning  'i' is not defined                              no-undef
+  245:69  warning  'i' is not defined                              no-undef
+  254:5   warning  'value6' is assigned a value but never used     no-unused-vars
+
+✖ 16 problems (0 errors, 16 warnings)
+
