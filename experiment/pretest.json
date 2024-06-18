@@ -2,24 +2,24 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. determine the variation of magnetic field with the distance along the axis of a current carrying coil and estimate the radius of coil.?",
+      "question": "Unit of magnetic permeability (μ) ?",
       "answers": {
-        "a": "5x10^-4 T",
-        "b": "3.14x10^-4 T",
-        "c": "1.57x10^-3 T",
-        "d": "5x10^-3 T"
+        "a": "unitless quantity",
+        "b": "henry per meter squared ",
+        "c": "Watt per meter ",
+        "d": "henry per meter "
       },
       "explanations": {
         "a": "Explanation 2",
         "b": "Explanation 2",
-        "c": "Explanation 1  <a href='https://testbook.com/objective-questions/mcq-on-magnetic-field-on-the-axis-of-a-circular-current-l--5eea6a1339140f30f369ef8b'>here</a>",
-        "d": "Explanation 2"
+        "c": "Explanation 1  ",
+        "d": "he magnetic permeability formula is given as follows; Magnetic permeability (μ) = B/H Where B = magnetic intensity and H = magnetising field.The SI unit of magnetic permeability is henry per meter (H/m) or newton per ampere squared"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "2. If the radius of a circular current carrying coil is doubled then the magnetic field at the center of the coil becomes- (all other factors remains same)",
+      "question": "If the radius of a circular current carrying coil is doubled then the magnetic field at the center of the coil becomes- (all other factors remains same)",
       "answers": {
         "a": "two times",
         "b": "half",
@@ -28,11 +28,28 @@
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 1  <a href='https://testbook.com/objective-questions/mcq-on-magnetic-field-on-the-axis-of-a-circular-current-l--5eea6a1339140f30f369ef8b'>here</a>",
+        "b": "For a coil carrying current, the magnetic field at its center is B ∝1/R. Hence on doubling the radius, magnetic field reduces to half. ",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What fundamental principle describes the magnetic field produced by a current-carrying coil?",
+      "answers": {
+        "a": "Faraday's Law",
+        "b": "Ampère's Law",
+        "c": " Ohm's Law",
+        "d": " Biot-Savart's Law"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "not correct ",
+        "c": "Explanation 2",
+        "d": "Biot-Savart's Law describes the magnetic field produced by a current-carrying conductor at any point in space."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
