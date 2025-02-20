@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Unit of magnetic permeability (μ) ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "unitless quantity",
+        "b": "henry per meter squared ",
+        "c": "Watt per meter ",
+        "d": "henry per meter "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 1  ",
+        "d": "he magnetic permeability formula is given as follows; Magnetic permeability (μ) = B/H Where B = magnetic intensity and H = magnetising field.The SI unit of magnetic permeability is henry per meter (H/m) or newton per ampere squared"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If the radius of a circular current carrying coil is doubled then the magnetic field at the center of the coil becomes- (all other factors remains same)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "two times",
+        "b": "half",
+        "c": "four times",
+        "d": "remains same"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation 2",
+        "b": "For a coil carrying current, the magnetic field at its center is B ∝1/R. Hence on doubling the radius, magnetic field reduces to half. ",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What fundamental principle describes the magnetic field produced by a current-carrying coil?",
+      "answers": {
+        "a": "Faraday's Law",
+        "b": "Ampère's Law",
+        "c": " Ohm's Law",
+        "d": " Biot-Savart's Law"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "not correct ",
+        "c": "Explanation 2",
+        "d": "Biot-Savart's Law describes the magnetic field produced by a current-carrying conductor at any point in space."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
