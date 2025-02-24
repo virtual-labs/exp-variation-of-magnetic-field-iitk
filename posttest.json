@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What does 'dl' represent in the context of Biot-Savart's Law?",
+      "answers": {
+        "a": " Current in the wire",
+        "b": "A segment of the wire",
+        "c": "Permeability of free space",
+        "d": "Distance from the wire to the point where the magnetic field is being measured"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": " 'dl' represents a small segment of the wire carrying the current, which contributes to the magnetic field at a specific point. ",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. How does the magnetic field along the axis of a current-carrying coil change with increasing distance from the coil?",
+      "answers": {
+        "a": " It remains constant",
+        "b": " It decreases linearly",
+        "c": " It decreases with increasing distance",
+        "d": " It increases with increasing distance"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "The magnetic field along the axis of a coil decreases with increasing distance from the coil.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. How can the radius of a coil be estimated without direct measurement?",
+      "answers": {
+        "a": "By counting the number of turns in the coil",
+        "b": "By measuring the current passing through the coil",
+        "c": "By comparing measured magnetic fields with theoretical calculations using Biot-Savart's Law",
+        "d": "By measuring the voltage across the coil"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1 ",
+        "c": "The radius of the coil can be estimated by comparing the measured magnetic fields with the calculated magnetic fields using Biot-Savart's Law.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. In the formula involving the magnetic field, number of turns, current, and radius of the coil, what physical quantity is used to estimate the coil's radius?",
+      "answers": {
+        "a": " Resistance",
+        "b": "Permeability of free space",
+        "c": "Magnetic field strength",
+        "d": "Inductance"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "The magnetic field strength is the physical quantity used to estimate the radius of the coil in the formula involving the magnetic field, number of turns, current, and radius of the coil.",
+        "d": "Explanation 1 "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What other methods can be used to determine the variation of magnetic field with distance along the axis of a current carrying coil?",
+      "answers": {
+        "a": "Using a compass",
+        "b": "Using a voltmeter",
+        "c": "Using an oscilloscope",
+        "d": "Using an oscillograph"
+      },
+      "explanations": {
+        "a": "A compass detects the presence and direction of a magnetic field. By placing a compass at various distances along the axis of a current-carrying coil and observing the deflection of the needle, you can determine the relative strength of the magnetic field at each point. This allows you to understand how the field strength varies with distance.",
+        "b": "A voltmeter measures voltage, not magnetic fields. While voltage can be indirectly related to magnetic fields in some electromagnetic devices, it's not suitable for directly measuring the variation of a magnetic field.",
+        "c": "These instruments are primarily used for analyzing electrical signals that vary over time. While a changing magnetic field can induce a current in a conductor, an oscilloscope wouldn't be the most efficient tool for directly measuring the spatial variation of the magnetic field itself.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
